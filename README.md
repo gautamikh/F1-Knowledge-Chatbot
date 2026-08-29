@@ -1,4 +1,4 @@
-# F1 Knowledge Chatbot
+# 🏎️ F1 Knowledge Chatbot
 
 An interactive Streamlit chatbot for exploring Formula 1 race results. The
 current MVP loads the 2025 Australian Grand Prix classification with FastF1
