@@ -166,7 +166,7 @@ uv run streamlit run race_results_app.py
 
 It loads the 2025 Australian Grand Prix results through FastF1; it is not a live
 results integration and is not connected to the RAG app.
-
+<!-- 
 ## Known limitations
 
 - Only three starter profiles; many historical questions are not covered.
@@ -193,7 +193,7 @@ results integration and is not connected to the RAG app.
 
 The intended design is hybrid: narrative knowledge belongs in the vector index;
 results, standings, and schedules belong in structured storage. Live data needs
-explicit freshness tracking rather than being treated as static knowledge.
+explicit freshness tracking rather than being treated as static knowledge. -->
 
 ## Sources and attribution
 
